@@ -1,0 +1,28 @@
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\bin\Debug\Tablero.exe
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\bin\Debug\Tablero.pdb
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.csproj.AssemblyReference.cache
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.csproj.SuggestedBindingRedirects.cache
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.csproj.CoreCompileInputs.cache
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.exe
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.pdb
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.Form1.resources
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Productos.FrmProductos.resources
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.frmVentas.resources
+C:\Users\aledesma\Documents\CSharp-VS CODE\CS_Curso_completo\Tablero\Tablero\obj\Debug\Tablero.frmClientes.resources
+C:\Users\aledesma\Downloads\Tablero\Tablero\bin\Debug\Tablero.exe.config
+C:\Users\aledesma\Downloads\Tablero\Tablero\bin\Debug\Tablero.exe
+C:\Users\aledesma\Downloads\Tablero\Tablero\bin\Debug\Tablero.pdb
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.csproj.AssemblyReference.cache
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.csproj.SuggestedBindingRedirects.cache
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.Form1.resources
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Productos.FrmProductos.resources
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.frmClientes.resources
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.frmVentas.resources
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.Properties.Resources.resources
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.csproj.GenerateResource.cache
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.csproj.CoreCompileInputs.cache
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.exe
+C:\Users\aledesma\Downloads\Tablero\Tablero\obj\Debug\Tablero.pdb
